@@ -1,0 +1,113 @@
+
+[
+  {
+    "id": "1",
+    "name": "Dr. Devanshi Chaudhari",
+    "specialty": ["Dentist"],
+    "experience": 8,
+    "fees": 600,
+    "consultationMode": ["video", "clinic"],
+    "qualification": "BDS, MDS - Orthodontics",
+    "clinic": "Smile Dental Clinic",
+    "location": "Andheri East"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Devanshi Vaghani",
+    "specialty": ["Dentist"],
+    "experience": 6,
+    "fees": 500,
+    "consultationMode": ["clinic"],
+    "qualification": "BDS",
+    "clinic": "Dental Care Centre",
+    "location": "Goregaon West"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Munaf Inamdar",
+    "specialty": ["General Physician", "Internal Medicine"],
+    "experience": 27,
+    "fees": 600,
+    "consultationMode": ["video", "clinic"],
+    "qualification": "MBBS, MD-General Medicine",
+    "clinic": "Apex Multispeciality and Maternity Hospital",
+    "location": "Kondhawa Khurd"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Subhash Bajaj",
+    "specialty": ["General Physician", "Cardiologist"],
+    "experience": 11,
+    "fees": 600,
+    "consultationMode": ["clinic"],
+    "qualification": "MBBS, Diploma in Cardiology",
+    "clinic": "Dr. Bajaj Wellness Clinic",
+    "location": "Manowrie"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Mufaddal Zakir",
+    "specialty": ["General Physician"],
+    "experience": 27,
+    "fees": 600,
+    "consultationMode": ["video"],
+    "qualification": "MBBS",
+    "clinic": "Sparsh Polyclinic",
+    "location": "Manwadi"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Ajay Gangoli",
+    "specialty": ["General Physician", "Pediatrician"],
+    "experience": 34,
+    "fees": 400,
+    "consultationMode": ["clinic"],
+    "qualification": "MBBS",
+    "clinic": "Niramaya Clinic",
+    "location": "Manowrie"
+  },
+  {
+    "id": "7",
+    "name": "Dr. Sanjay Patil",
+    "specialty": ["Neurologist"],
+    "experience": 15,
+    "fees": 800,
+    "consultationMode": ["video", "clinic"],
+    "qualification": "MBBS, MD - Neurology",
+    "clinic": "Brain Health Institute",
+    "location": "Viman Nagar"
+  },
+  {
+    "id": "8",
+    "name": "Dr. Priya Sharma",
+    "specialty": ["Oncologist"],
+    "experience": 12,
+    "fees": 900,
+    "consultationMode": ["clinic"],
+    "qualification": "MBBS, MD - Oncology",
+    "clinic": "Cancer Care Center",
+    "location": "Koregaon Park"
+  },
+  {
+    "id": "9", 
+    "name": "Dr. Rajesh Kumar",
+    "specialty": ["Ayurveda"],
+    "experience": 18,
+    "fees": 350,
+    "consultationMode": ["video"],
+    "qualification": "BAMS",
+    "clinic": "Ayush Wellness Center",
+    "location": "Kothrud"
+  },
+  {
+    "id": "10",
+    "name": "Dr. Sneha Desai",
+    "specialty": ["Homeopath"],
+    "experience": 9,
+    "fees": 300,
+    "consultationMode": ["clinic"],
+    "qualification": "BHMS",
+    "clinic": "Holistic Health Clinic",
+    "location": "Aundh"
+  }
+]
