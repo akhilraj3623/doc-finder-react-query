@@ -96,7 +96,7 @@ const Index = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 flex flex-col">
       {/* Header with Search */}
       <header className="bg-primary text-white py-4">
         <div className="container mx-auto px-4">
@@ -110,7 +110,7 @@ const Index = () => {
         </div>
       </header>
       
-      <div className="container mx-auto px-4 py-6">
+      <div className="container mx-auto px-4 py-6 flex-grow">
         <div className="max-w-5xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
             {/* Filters - Left Column */}
@@ -153,6 +153,11 @@ const Index = () => {
           </div>
         </div>
       </div>
+
+      {/* Footer with Made By attribution */}
+      <footer className="bg-gray-100 py-4 text-center text-sm text-gray-600">
+        Made by Akhil Raj RA2211003010018
+      </footer>
     </div>
   );
 };
