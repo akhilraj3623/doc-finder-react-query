@@ -58,7 +58,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ doctors, value, onChange }) => {
           value={value}
           onChange={handleInputChange}
           onKeyDown={handleKeyDown}
-          onFocus={() => value.trim() && setSuggestions.length > 0 && setIsOpen(true)}
+          onFocus={() => value.trim() && suggestions.length > 0 && setIsOpen(true)}
           onBlur={handleBlur}
           placeholder="Search doctors, specialties..."
           className="w-full pl-10 pr-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary"

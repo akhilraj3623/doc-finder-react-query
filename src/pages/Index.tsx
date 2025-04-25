@@ -50,8 +50,9 @@ const Index = () => {
     
     // Apply search filter
     if (search) {
+      const searchTerm = search.toLowerCase();
       results = results.filter(doctor => 
-        doctor.name.toLowerCase().includes(search.toLowerCase())
+        doctor.name.toLowerCase().includes(searchTerm)
       );
     }
     
