@@ -48,3 +48,16 @@ Examples:
 ## 📦 API Used
 
 Data fetched from:
+https://srijandubey.github.io/campus-api-mock/SRM-C1-25.json
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (w/ Hooks & functional components)
+- **React Router** (for query param handling)
+- **TailwindCSS / CSS Modules** *(optional styling)*
+- **URLSearchParams** (for URL query parsing)
+
+---
